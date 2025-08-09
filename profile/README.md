@@ -4,9 +4,10 @@
 
 **"Start with an Idea, Unlock Innovation"**
 
-[![Website](https://img.shields.io/badge/Website-qeyonlabs.com-B030FF?style=for-the-badge&logo=globe)](https://qeyonlabs.com)
-[![Innovation](https://img.shields.io/badge/Focus-AI%20Integration-F61115?style=for-the-badge&logo=artificial-intelligence)](https://github.com/qeyonlabs)
-[![Development](https://img.shields.io/badge/Stack-Full%20Stack-0A0A0B?style=for-the-badge&logo=code)](https://github.com/qeyonlabs)
+<!-- TODO: Add actual badges once website and metrics are available -->
+[![Website](https://img.shields.io/badge/Website-[WEBSITE_URL]-B030FF?style=for-the-badge&logo=globe)](#)
+[![Status](https://img.shields.io/badge/Status-Foundation_Building-F61115?style=for-the-badge&logo=rocket)](#)
+[![Founded](https://img.shields.io/badge/Founded-2025-0A0A0B?style=for-the-badge&logo=calendar)](#)
 
 </div>
 
@@ -14,57 +15,33 @@
 
 ## About Qeyon Labs
 
-**Qeyon Labs** is a cutting-edge technology consultancy specializing in **digital transformation**, **custom software development**, and **AI-powered solutions**. Founded in 2025, we bridge the gap between innovative ideas and practical implementation, empowering businesses through strategic technology integration.
+**Qeyon Labs** is a cutting-edge technology consultancy specializing in **digital transformation**, **custom software development**, and **AI-powered solutions**. Founded in 2025, we bridge the gap between innovative ideas and practical implementation.
 
 ### 🎯 Our Mission
+<!-- PLACEHOLDER: Refine mission statement as company strategy develops -->
 Transforming visionary concepts into robust, scalable solutions that drive real business impact through precision engineering and innovative design.
 
 ### 🔬 What We Do
-- **Custom Software Development** - Full-stack web and mobile applications
-- **AI Integration Consulting** - Strategic AI implementation and optimization  
-- **Digital Transformation** - Process automation and technical architecture
-- **Design Systems** - Brand identity and user experience design
+- **Custom Software Development** - [PLACEHOLDER: Add specific technologies/frameworks once decided]
+- **AI Integration Consulting** - [PLACEHOLDER: Define specific AI services offered]  
+- **Digital Transformation** - [PLACEHOLDER: Specify process automation capabilities]
+- **Design Systems** - [PLACEHOLDER: Detail UX/UI service offerings]
 
 ---
 
-## 🏗️ Technology Stack
+## 🏗️ Current Status
 
-<div align="center">
+**🚧 Foundation Building Phase** - We're establishing our operational framework and developing core capabilities.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-B030FF?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-F61115?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0B?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1C1C1E?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B030FF?style=for-the-badge&logo=python&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI%20Integration-F61115?style=for-the-badge&logo=openai&logoColor=white)
+### Active Projects
+- **Brand Identity System** - [CURRENT STATUS: Complete logo and 7-color palette system]
+- **Company Website** - [PLACEHOLDER: Update status once live]
+- **Development Infrastructure** - [CURRENT STATUS: 25+ MCP servers operational]
 
-</div>
-
-### Core Technologies
-- **Frontend**: React, Next.js, TypeScript, Modern CSS
-- **Backend**: Node.js, Python, RESTful APIs, GraphQL
-- **AI/ML**: OpenAI Integration, Custom AI Workflows, Automation
-- **Infrastructure**: Cloud-first architecture, DevOps, CI/CD
-- **Design**: Figma, Advanced Design Systems, Brand Development
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 [Qeyon Labs Website](https://github.com/qeyonlabs/qeyonlabs-site)
-Our main company website showcasing services, capabilities, and thought leadership.
-- **Tech**: Modern web technologies
-- **Status**: Live at [qeyonlabs.com](https://qeyonlabs.com)
-
-### 🎨 Design System & Brand Identity
-Comprehensive brand system featuring our distinctive lightbulb-radiance logo and professional 7-color palette.
-- **Brand Colors**: Quantum Purple (#B030FF), Ignition Red (#F61115), Void Black (#0A0A0B)
-- **Status**: Production ready, Fortune 500 grade quality standards
-
-### 🤖 AI-Powered Development Infrastructure  
-Advanced development environment with 25+ specialized AI agents and Model Context Protocol integration.
-- **Capabilities**: Intelligent code assistance, automated workflows, context-aware development
-- **Status**: Operational and continuously expanding
+### Repository Overview
+- **Public Repositories**: [CURRENT COUNT: 2]
+- **Main Website**: [qeyonlabs-site](https://github.com/qeyonlabs/qeyonlabs-site)
+- **Organization Profile**: [.github](https://github.com/qeyonlabs/.github)
 
 ---
 
@@ -74,91 +51,82 @@ Advanced development environment with 25+ specialized AI agents and Model Contex
 
 ### Primary Brand Colors
 
-<table>
-<tr>
-<td align="center">
-<div style="width: 80px; height: 80px; background-color: #B030FF; border-radius: 8px; margin: 0 auto;"></div>
-<strong>Quantum Purple</strong><br/>
-<code>#B030FF</code><br/>
-<em>Innovation & Creativity</em>
-</td>
-<td align="center">
-<div style="width: 80px; height: 80px; background-color: #F61115; border-radius: 8px; margin: 0 auto;"></div>
-<strong>Ignition Red</strong><br/>
-<code>#F61115</code><br/>
-<em>Action & Implementation</em>
-</td>
-<td align="center">
-<div style="width: 80px; height: 80px; background-color: #0A0A0B; border-radius: 8px; border: 1px solid #ccc; margin: 0 auto;"></div>
-<strong>Void Black</strong><br/>
-<code>#0A0A0B</code><br/>
-<em>Foundation & Sophistication</em>
-</td>
-</tr>
-</table>
+<!-- Using actual brand colors from research -->
+| Color | Usage | Psychology |
+|-------|-------|------------|
+| **Quantum Purple** `#B030FF` | Innovation & Creativity | Primary brand identifier |
+| **Ignition Red** `#F61115` | Action & Implementation | Energy and execution |
+| **Void Black** `#0A0A0B` | Foundation & Sophistication | Premium backgrounds |
 
 </div>
 
 ### Logo Concept
-Our distinctive logo features a **geometric lightbulb radiating energy**, symbolizing the transformation of ideas into innovative solutions. The radial gradient from red to purple represents our philosophy: **Innovation → Execution**.
+Our distinctive logo features a **geometric lightbulb radiating energy**, symbolizing the transformation of ideas into innovative solutions. The design represents our core philosophy: **Innovation → Execution**.
 
 ---
 
 ## 🏢 Organizational Structure
 
-We operate through specialized departments for maximum efficiency and expertise:
+We operate through specialized departments for maximum efficiency:
 
 | Department | Focus Area | Status |
 |------------|------------|--------|
-| **Q-Brand** | Creative operations, design systems, brand identity | ✅ Active |
-| **Q-Dev** | Software development, technical architecture | ✅ Ready |
-| **Q-Business** | Operations, strategy, business intelligence | ✅ Ready |
-| **Q-Research** | Market intelligence, competitive analysis | ✅ Ready |
-| **Q-Knowledge** | Learning systems, personal productivity | ✅ Active |
+| **[Q-Brand](https://github.com/qeyonlabs/q-brand)** | Creative operations, design systems | ✅ Active |
+| **[Q-Dev](https://github.com/qeyonlabs/q-dev)** | Software development, architecture | 📋 Planned |
+| **[Q-Business](https://github.com/qeyonlabs/q-business)** | Operations, strategy | 📋 Planned |
+| **[Q-Research](https://github.com/qeyonlabs/q-research)** | Market intelligence, analysis | 📋 Planned |
+
+<!-- PLACEHOLDER: Update repository links once Q-department repos are created -->
+
+---
+
+## 🚀 Technology Stack
+
+<div align="center">
+
+<!-- PLACEHOLDER: Update badges with actual technologies once tech stack is finalized -->
+![TypeScript](https://img.shields.io/badge/TypeScript-B030FF?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-F61115?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0B?style=for-the-badge&logo=node.js&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-F61115?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+### Core Technologies
+<!-- PLACEHOLDER: Refine technology list as stack decisions are made -->
+- **Frontend**: [PLACEHOLDER: Specify framework choices]
+- **Backend**: [PLACEHOLDER: Define backend technologies]
+- **AI/ML**: [PLACEHOLDER: List AI integration tools]
+- **Infrastructure**: [PLACEHOLDER: Specify cloud/deployment choices]
+- **Design**: [PLACEHOLDER: Define design toolchain]
 
 ---
 
 ## 🤝 Working With Us
 
 ### Current Status
-🚧 **Foundation Building Phase** - We're establishing our operational framework and developing core capabilities. Not currently accepting new client projects.
+<!-- Following industry best practice: Being transparent about current capacity -->
+🚧 **Foundation Building Phase** - Currently focused on establishing our operational framework and core capabilities. **Not accepting new client projects at this time**.
 
-### Future Engagement Model
-1. **🔍 Discovery** - Understanding your unique challenges and objectives
-2. **📋 Strategy** - Developing tailored solutions and implementation roadmaps  
-3. **⚡ Implementation** - Building with precision, quality, and innovation
-4. **🔄 Support** - Ongoing optimization, maintenance, and growth support
-
----
-
-## 📊 Company Metrics
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Repositories-2-B030FF?style=for-the-badge&logo=github)](https://github.com/orgs/qeyonlabs/repositories)
-[![Founded](https://img.shields.io/badge/Founded-2025-F61115?style=for-the-badge&logo=calendar)](https://github.com/qeyonlabs)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-0A0A0B?style=for-the-badge&logo=rocket)](https://github.com/qeyonlabs)
-
-</div>
-
-### Development Metrics
-- **Active Projects**: 2 public repositories
-- **Technology Focus**: Full-stack development with AI integration
-- **Quality Standard**: Fortune 500 grade processes and documentation
-- **Development Approach**: AI-first methodology with human expertise
+### Future Engagement Process
+<!-- PLACEHOLDER: Refine client engagement model -->
+1. **🔍 Discovery** - [PLACEHOLDER: Define discovery process]
+2. **📋 Strategy** - [PLACEHOLDER: Outline strategy development]
+3. **⚡ Implementation** - [PLACEHOLDER: Detail implementation approach]
+4. **🔄 Support** - [PLACEHOLDER: Define ongoing support model]
 
 ---
 
-## 🌟 Innovation Philosophy
+## 📊 Open Source Contributions
 
-> **"Where Ideas Meet Implementation"**
+<!-- Following GitHub/Microsoft example of highlighting community involvement -->
+We believe in contributing back to the open source community that powers our work:
 
-At Qeyon Labs, we believe that the best technology solutions emerge from the perfect balance of **visionary thinking** and **pragmatic execution**. Our approach combines:
+- **[PLACEHOLDER]** contributions to open source projects
+- **[PLACEHOLDER]** repositories made public for community benefit
+- **[PLACEHOLDER]** developers supported through our tools and resources
 
-- 🔮 **Innovative Vision** - Exploring cutting-edge possibilities
-- ⚡ **Practical Implementation** - Delivering real-world solutions  
-- 🎯 **Strategic Focus** - Aligning technology with business objectives
-- 🚀 **Continuous Evolution** - Adapting and improving through AI assistance
+<!-- PLACEHOLDER: Add actual metrics once we have meaningful open source activity -->
 
 ---
 
@@ -166,9 +134,11 @@ At Qeyon Labs, we believe that the best technology solutions emerge from the per
 
 <div align="center">
 
-**🌐 Website**: [qeyonlabs.com](https://qeyonlabs.com)  
-**📧 Email**: info@qeyonlabs.com  
+<!-- PLACEHOLDER: Update contact information once finalized -->
+**🌐 Website**: [PLACEHOLDER: Add website URL]  
+**📧 Email**: [PLACEHOLDER: Add contact email]  
 **🐙 GitHub**: [@qeyonlabs](https://github.com/qeyonlabs)  
+**💼 LinkedIn**: [PLACEHOLDER: Add LinkedIn profile]
 
 ---
 
@@ -178,6 +148,41 @@ At Qeyon Labs, we believe that the best technology solutions emerge from the per
 
 ---
 
+## 📈 Roadmap
+
+<!-- Following best practice of transparent roadmap -->
+### Q4 2025
+- [ ] Complete foundational infrastructure
+- [ ] Launch company website  
+- [ ] Establish Q-department repositories
+- [ ] [PLACEHOLDER: Add specific Q4 goals]
+
+### 2026 Goals
+- [ ] Begin client engagement operations
+- [ ] [PLACEHOLDER: Add 2026 strategic objectives]
+- [ ] [PLACEHOLDER: Define growth targets]
+
+<!-- PLACEHOLDER: Refine roadmap based on business strategy -->
+
+---
+
 <div align="center">
-<sub>© 2025 Qeyon Labs. Unlocking innovation through strategic technology solutions.</sub>
+
+<sub>© 2025 Qeyon Labs. Transforming ideas into innovative solutions.</sub>
+
+<!-- Following GitHub's example of encouraging org README creation -->
+<sub>💡 Learn how to create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)</sub>
+
 </div>
+
+---
+
+<!-- 
+DEVELOPMENT NOTES:
+- All PLACEHOLDER items need to be filled with actual information
+- Update repository links once Q-department repos are created  
+- Add real metrics once available
+- Refine technology stack section based on actual choices
+- Update contact information with final details
+- Remove this comment section before final version
+-->
