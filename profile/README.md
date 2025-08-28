@@ -1,4 +1,4 @@
-![QEXION LABS Hero Banner](github_1.svg)
+![QEXION LABS Hero Banner](github.png)
 
 ## 👋 Welcome to QEXION Labs
 
