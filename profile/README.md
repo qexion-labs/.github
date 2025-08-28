@@ -150,13 +150,3 @@ We're building something real, something meaningful. Starting in Ghana with Vall
 - 🤝 [Contributing Guidelines](https://github.com/qexion-labs/.github/blob/main/CONTRIBUTING.md)
 
 ---
-
-## ⚡ "Start With An Idea, Unlock Innovation"
-
-**Built with ❤️ by the QEXION LABS Team**
-
-**Transforming Ideas into Innovation • One Project at a Time**
-
----
-
-**Want to create your own organization README?** Check out [GitHub's guide](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) to get started.
