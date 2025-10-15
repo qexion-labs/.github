@@ -84,15 +84,6 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 <div align="center">
 
-| 🎯 **Service**                                               | 📋 **Description**                           | 🛠️ **Tech Stack**             | 🚀 **Status** |
-| ------------------------------------------------------------ | -------------------------------------------- | ----------------------------- | ------------- |
-| **[Projectify](https://qexionlabs.com/services/projectify)** | Academic project development for CS students | React, Next.js, TypeScript    | ✅ Active     |
-| **Business Websites**                                        | Professional web solutions for companies     | Next.js, Supabase, Tailwind   | ✅ Active     |
-| **AI Consultation**                                          | Workflow optimization & automation           | Various AI Tools, Custom APIs | ✅ Active     |
-| **Custom Development**                                       | Full-stack applications & systems            | Modern Web Technologies       | ✅ Active     |
-
-</div>
-
 ### 🛠️ **Custom Development Services**
 
 - **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions
@@ -142,14 +133,6 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 | 🔍 **Q-Intelligence** | Research & Market Analysis           | Market Research & Competitive Intelligence |
 
 </div>
-
-### **Development Methodology**
-
-1. **🔍 Ideation** - Identify new opportunities and creative potential
-2. **🔗 Connection** - Link abstract concepts to concrete technical possibilities
-3. **⚡ Prototyping** - Rapid development, testing, and iterative refinement
-4. **🎯 Optimization** - Performance tuning and user experience enhancement
-5. **🚀 Scale** - Strategic deployment and sustainable growth implementation
 
 ---
 
