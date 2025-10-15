@@ -128,19 +128,6 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ## 🚀 **Featured Projects & Solutions**
 
-<div align="center">
-
-### **QEXION LABS ECOSYSTEM**
-
-| Project                       | Description                                       | Technologies                         | Demo                                                     |
-| ----------------------------- | ------------------------------------------------- | ------------------------------------ | -------------------------------------------------------- |
-| 🌐 **Qexion Labs Website**    | Professional company website with customer portal | Next.js, Supabase, NextAuth          | [Visit Site](https://qexionlabs.com)                     |
-| 🎓 **Projectify Platform**    | Academic project consultation service             | React, TypeScript, Modern UI         | [Learn More](https://qexionlabs.com/services/projectify) |
-| 🏢 **Business Web Solutions** | Custom websites for Ghana businesses              | Next.js, Tailwind, Responsive Design | [Request Quote](https://qexionlabs.com/contact)          |
-| 🤖 **AI Workflow Tools**      | Automation consulting & implementation            | AI APIs, Custom Integrations         | [Consultation](https://qexionlabs.com/contact)           |
-
-</div>
-
 ---
 
 ## 🤝 **Get Involved**
