@@ -37,17 +37,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
-## 📊 **Company Highlights**
-
-<div align="center">
-
-| 🎯 **Focus Areas**     | 🏆 **Specializations**      | 🌍 **Impact**            |
-| ---------------------- | --------------------------- | ------------------------ |
-| **Academic Projects**  | Next.js & React Development | Ghana Tech Community     |
-| **Business Solutions** | AI Integration & Automation | University Partnerships  |
-| **Custom Development** | Full-Stack Web Applications | Student Success Programs |
-
-</div>
+## 📊 **Company Highlights and Stats**
 
 ---
 
@@ -153,20 +143,6 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
-## 📈 **Company Metrics**
-
-<div align="center">
-
-| 🎯 **Services**            | 🎓 **Academic Focus**                  | 🌍 **Community**              |
-| -------------------------- | -------------------------------------- | ----------------------------- |
-| **4** Active Service Lines | **Valley View University** Partnership | **Ghana** Tech Community      |
-| **Custom Development**     | **CS Students** Primary Focus          | **Open Source** Contributions |
-| **AI Integration**         | **Project Consultation**               | **Education** Advancement     |
-
-</div>
-
----
-
 ## 🤝 **Get Involved**
 
 ### **For Students & Developers**
@@ -182,11 +158,6 @@ git clone projects && cd solutions
 echo "Ready to innovate together?" | contribute
 ```
 
-- 📚 **[Projectify Academic Services](https://qexionlabs.com/services/projectify)** - Comprehensive project development consultation
-- 💻 **Open Source Collaboration** - Contribute to community projects and development initiatives
-- 🎓 **Educational Partnerships** - Academic institutions and student developer programs
-- 🤝 **Tech Challenges** - Participate in advanced technology development projects
-
 ### **For Businesses & Organizations**
 
 ```bash
@@ -200,11 +171,6 @@ POST /api/consultation
 # Technology Consultation
 GET /services/consulting?focus=ai_integration
 ```
-
-- 🛠️ **Custom Development Solutions** - Professional websites, applications, and automation systems
-- 💡 **Technology Consulting** - AI integration, workflow optimization, and digital transformation
-- 🤝 **Strategic Partnerships** - Long-term collaboration on meaningful technology projects
-- 📈 **Technology Strategy** - Advanced planning and implementation roadmaps
 
 ---
 
@@ -237,14 +203,6 @@ _"Life is Code, Let's solve it together"_
 | Security-first implementation       | Meaningful human impact focus    | Knowledge sharing culture | Inclusive development standards |
 
 </div>
-
-**Our Development Standards:**
-
-- 🔒 **Security-First Development** - Enterprise-grade security practices implemented from project foundation
-- 🌍 **Ethical Technology Development** - Responsible development with meaningful human impact consideration
-- 📚 **Open Source Contribution** - Active community building and knowledge sharing
-- ♿ **Accessibility Excellence** - Inclusive design and development ensuring universal access
-- 🌱 **Sustainable Technology Practices** - Environmental consciousness in all technological implementations
 
 **Our Commitment:**
 
