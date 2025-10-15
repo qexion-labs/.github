@@ -37,6 +37,50 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
+## 💼 **What We Build**
+
+<div align="center">
+
+### 🛠️ **Custom Development Services**
+
+- **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions
+- **Technology Consulting** - AI workflow optimization and digital transformation strategies
+- **Advanced Automation** - Cutting-edge implementations using the latest technology
+- **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions
+
+### 🎓 **Educational Initiatives**
+
+- **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students
+- **Development Workshops** - GitHub setup, README generation, and modern development workflows
+- **AI Integration Training** - Consultation on AI automation tools and next-generation development practices
+- **Academic Partnerships** - Collaboration with universities and educational institutions
+
+### 🔬 **Innovation Lab Projects**
+
+- **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges
+- **R&D Initiatives** - Long-term projects focused on transformative technological solutions
+- **Community Ecosystems** - Building platforms that foster creative collaboration
+- **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems
+
+---
+
+## 👨‍💻 **Leadership & Vision**
+
+<div align="center">
+
+### **Edward King Quintin-Sey**
+
+**Founder & CEO**
+
+_"Life is Code, Let's solve it together"_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/edward-quintin-sey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-quintin.engineer-6f42c1?style=flat-square)](https://quintin.engineer)
+
+</div>
+
+---
+
 ## 📊 **Company Highlights and Stats**
 
 ---
@@ -67,33 +111,6 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
-
-## 💼 **What We Build**
-
-<div align="center">
-
-### 🛠️ **Custom Development Services**
-
-- **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions
-- **Technology Consulting** - AI workflow optimization and digital transformation strategies
-- **Advanced Automation** - Cutting-edge implementations using the latest technology
-- **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions
-
-### 🎓 **Educational Initiatives**
-
-- **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students
-- **Development Workshops** - GitHub setup, README generation, and modern development workflows
-- **AI Integration Training** - Consultation on AI automation tools and next-generation development practices
-- **Academic Partnerships** - Collaboration with universities and educational institutions
-
-### 🔬 **Innovation Lab Projects**
-
-- **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges
-- **R&D Initiatives** - Long-term projects focused on transformative technological solutions
-- **Community Ecosystems** - Building platforms that foster creative collaboration
-- **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems
 
 ---
 
@@ -158,23 +175,6 @@ POST /api/consultation
 # Technology Consultation
 GET /services/consulting?focus=ai_integration
 ```
-
----
-
-## 👨‍💻 **Leadership & Vision**
-
-<div align="center">
-
-### **Edward King Quintin-Sey**
-
-**Founder & CEO**
-
-_"Life is Code, Let's solve it together"_
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/edward-quintin-sey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-quintin.engineer-6f42c1?style=flat-square)](https://quintin.engineer)
-
-</div>
 
 ---
 
