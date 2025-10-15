@@ -216,19 +216,6 @@ _"Life is Code, Let's solve it together"_
 
 ---
 
-## 📊 **Organization Stats**
-
-<div align="center">
-
-![GitHub Org Stats](https://img.shields.io/badge/Repositories-Growing-28a745?style=for-the-badge&logo=github)
-![Projects](https://img.shields.io/badge/Active_Projects-4+-6f42c1?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus_Area-Ghana_Tech-dc3545?style=for-the-badge)
-![Students](https://img.shields.io/badge/Student_Focus-CS_Projects-17a2b8?style=for-the-badge)
-
-</div>
-
----
-
 ### **QEXION LABS**
 
 _Technology Innovation Company • Established 2025_
