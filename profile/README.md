@@ -197,12 +197,15 @@ _"Life is Code, Let's solve it together"_
 
 <div align="center">
 
-| Department            | Focus Area                           | Innovation Stream                          |
-| --------------------- | ------------------------------------ | ------------------------------------------ |
-| 🎨 **Q-Brand**        | Creative & Design Excellence         | Visual Identity & Brand Strategy           |
-| 💻 **Q-Dev**          | Development & Engineering Excellence | Technical Architecture & Implementation    |
-| 📊 **Q-Business**     | Operations & Strategic Growth        | Business Development & Client Success      |
-| 🔍 **Q-Intelligence** | Research & Market Analysis           | Market Research & Competitive Intelligence |
+| Department            | Description                                                         | Hiring Status                                         |
+| --------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- |
+| 🎨 **Q-Brand**        | Visual identity, UI/UX design, and brand strategy development       | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 💻 **Q-Dev**          | Full-stack development, AI solutions, and technical architecture    | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 📊 **Q-Business**     | Operations management, client relations, and strategic partnerships | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 📈 **Q-Marketing**    | Digital marketing, content creation, and growth strategies          | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 🔍 **Q-Intelligence** | Market research, competitive analysis, and data insights            | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 💰 **Q-Finance**      | Financial planning, budgeting, and investment management            | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 👥 **Q-Relations**    | Human resources, talent acquisition, and team development           | [Apply Now](https://linkedin.com/company/qexion-labs) |
 
 </div>
 
