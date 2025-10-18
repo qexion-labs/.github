@@ -58,24 +58,24 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ### 🛠️ **Custom Development Services**
 
-- **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions
-- **Technology Consulting** - AI workflow optimization and digital transformation strategies
-- **Advanced Automation** - Cutting-edge implementations using the latest technology
-- **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions
+➜ **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions
+➜ **Technology Consulting** - AI workflow optimization and digital transformation strategies
+➜ **Advanced Automation** - Cutting-edge implementations using the latest technology
+➜ **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions
 
 ### 🎓 **Educational Initiatives**
 
-- **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students
-- **Development Workshops** - GitHub setup, README generation, and modern development workflows
-- **AI Integration Training** - Consultation on AI automation tools and next-generation development practices
-- **Academic Partnerships** - Collaboration with universities and educational institutions
+➜ **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students
+➜ **Development Workshops** - GitHub setup, README generation, and modern development workflows
+➜ **AI Integration Training** - Consultation on AI automation tools and next-generation development practices
+➜ **Academic Partnerships** - Collaboration with universities and educational institutions
 
 ### 🔬 **Innovation Lab Projects**
 
-- **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges
-- **R&D Initiatives** - Long-term projects focused on transformative technological solutions
-- **Community Ecosystems** - Building platforms that foster creative collaboration
-- **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems
+➜ **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges
+➜ **R&D Initiatives** - Long-term projects focused on transformative technological solutions
+➜ **Community Ecosystems** - Building platforms that foster creative collaboration
+➜ **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems
 
 ---
 
