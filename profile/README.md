@@ -83,18 +83,38 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
-## 👨‍💻 **Leadership & Vision**
+## � **Meet The Team**
 
 <div align="center">
 
-### **Edward King Quintin-Sey**
-
-**Founder & CEO**
-
-_"Life is Code, Let's solve it together"_
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/edward-quintin-sey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-quintin.engineer-6f42c1?style=flat-square)](https://quintin.engineer)
+<table>
+	<tr>
+		<td align="center" width="50%">
+			<img src="https://github.com/eddki.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
+			<br/>
+			<b>EDWARD KING QUINTIN-SEY</b><br/>
+			<i>Founder & CEO</i>
+			<br/>
+			<sub>"Life is Code, Let's solve it together"</sub>
+			<br/>
+			<a href="https://linkedin.com/in/edward-quintin-sey">LinkedIn</a> |
+			<a href="https://quintin.engineer">Portfolio</a> |
+			<a href="https://github.com/eddki">GitHub</a>
+		</td>
+		<td align="center" width="50%">
+			<img src="https://github.com/kwame-techlead.png" width="120" height="120" style="border-radius:50%" alt="Kwame Mensah" />
+			<br/>
+			<b>FRANK KWIZERA MUGWANEZA </b><br/>
+			<i>Technical Lead</i>
+			<br/>
+			<sub>"Building the future, one line at a time"</sub>
+			<br/>
+			<a href="https://linkedin.com/in/kwame-mensah">LinkedIn</a> |
+			<a href="https://kwametech.dev">Portfolio</a> |
+			<a href="https://github.com/kwame-techlead">GitHub</a>
+		</td>
+	</tr>
+</table>
 
 </div>
 
