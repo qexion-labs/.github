@@ -45,7 +45,7 @@ _Global Innovation Leadership_
 
 ### **Breaking New Ground** 🔬
 
-Our most ambitious project addresses a **fundamental aspect of human experience**. Follow us to stay informed."
+Our most ambitious project addresses a **fundamental aspect of human experience**. Follow us to stay informed.
 
 </div>
 
