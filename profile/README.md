@@ -58,48 +58,24 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ### 🛠️ **Custom Development Services**
 
-<div style="text-align: center;">
-
-<div style="text-align: left; display: inline-block;">
-
-➜ **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions<br>
-➜ **Technology Consulting** - AI workflow optimization and digital transformation strategies<br>
-➜ **Advanced Automation** - Cutting-edge implementations using the latest technology<br>
-➜ **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions<br>
-
-</div>
-
-</div>
+➜ &nbsp; **Professional Websites & Applications** - Modern, scalable solutions for businesses and institutions<br>
+➜ &nbsp; **Technology Consulting** - AI workflow optimization and digital transformation strategies<br>
+➜ &nbsp; **Advanced Automation** - Cutting-edge implementations using the latest technology<br>
+➜ &nbsp; **Enterprise Solutions** - Comprehensive systems for organizations and educational institutions<br>
 
 ### 🎓 **Educational Initiatives**
 
-<div style="text-align: center;">
-
-<div style="text-align: left; display: inline-block;">
-
-➜ **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students<br>
-➜ **Development Workshops** - GitHub setup, README generation, and modern development workflows<br>
-➜ **AI Integration Training** - Consultation on AI automation tools and next-generation development practices<br>
-➜ **Academic Partnerships** - Collaboration with universities and educational institutions<br>
-
-</div>
-
-</div>
+➜ &nbsp; **[Projectify](https://qexionlabs.com/services/projectify)** - Academic project development consultation for computer science students<br>
+➜ &nbsp; **Development Workshops** - GitHub setup, README generation, and modern development workflows<br>
+➜ &nbsp; **AI Integration Training** - Consultation on AI automation tools and next-generation development practices<br>
+➜ &nbsp; **Academic Partnerships** - Collaboration with universities and educational institutions<br>
 
 ### 🔬 **Innovation Lab Projects**
 
-<div style="text-align: center;">
-
-<div style="text-align: left; display: inline-block;">
-
-➜ **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges<br>
-➜ **R&D Initiatives** - Long-term projects focused on transformative technological solutions<br>
-➜ **Community Ecosystems** - Building platforms that foster creative collaboration<br>
-➜ **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems<br>
-
-</div>
-
-</div>
+➜ &nbsp; **Breakthrough Technology Development** - Proprietary solutions addressing critical human challenges<br>
+➜ &nbsp; **R&D Initiatives** - Long-term projects focused on transformative technological solutions<br>
+➜ &nbsp; **Community Ecosystems** - Building platforms that foster creative collaboration<br>
+➜ &nbsp; **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems<br>
 
 ---
 
