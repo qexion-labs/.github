@@ -203,7 +203,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ## ⚡ **Technology Excellence**
 
-**Development Philosophy:**
+### **Development Philosophy:**
 
 ➜ &nbsp; 🤖 **Smart Development** - Leveraging cutting-edge AI tools for enhanced productivity<br>
 ➜ &nbsp; 🎨 **Design Excellence** - Balancing technical precision with creative expression and user experience<br>
