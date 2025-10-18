@@ -100,7 +100,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 			<b>EDWARD KING QUINTIN-SEY</b><br/>
 			<i>Founder & CEO</i>
 			<br/>
-			<a href="https://linkedin.com/in/edward-quintin-sey">LinkedIn</a> |
+			<a href="https://www.linkedin.com/in/eddkingqsey">LinkedIn</a> |
 			<a href="https://quintin.engineer">Portfolio</a> |
 			<a href="https://github.com/quintin-dev">GitHub</a>
 		</td>
@@ -110,8 +110,8 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 			<b>FRANK KWIZERA MUGWANEZA</b><br/>
 			<i>Technical Lead</i>
 			<br/>
-			<a href="https://linkedin.com/in/">LinkedIn</a> |
-			<a href="https://">Portfolio</a> |
+			<a href="https://www.linkedin.com/in/frank-kwizera-mugwaneza">LinkedIn</a> |
+			<a href="https://burkifa23.github.io/">Portfolio</a> |
 			<a href="https://github.com/Burkifa23">GitHub</a>
 		</td>
 	</tr>
