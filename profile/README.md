@@ -42,9 +42,13 @@ _Global Innovation Leadership_
 </tr>
 </table>
 
+<div align="center">
+
 ### **Breaking New Ground** 🔬
 
 Our most ambitious project addresses a **fundamental aspect of human experience**. The foundations are being laid today, and the **footprints of tomorrow** are already appearing.
+
+</div>
 
 ---
 
