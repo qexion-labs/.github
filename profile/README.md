@@ -83,7 +83,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
-## � **Meet The Team**
+## 👥 **Meet The Team**
 
 <div align="center">
 
