@@ -9,7 +9,6 @@
 **Technology Innovation Company** • **Founded October 2025** • **Global Impact from Ghana**
 
 [![Website](https://img.shields.io/badge/🌐_Website-qexionlabs.com-6f42c1?style=for-the-badge)](https://qexionlabs.com)
-[![Projectify](https://img.shields.io/badge/🎓_Projectify-Academic_Services-28a745?style=for-the-badge)](https://qexionlabs.com/services/projectify)
 [![About](https://img.shields.io/badge/ℹ️_About-Company_Info-17a2b8?style=for-the-badge)](https://qexionlabs.com/about)
 [![Email](https://img.shields.io/badge/📧_Mail-contact@qexionlabs.com-dc3545?style=for-the-badge)](mailto:hello@qexionlabs.com)
 
