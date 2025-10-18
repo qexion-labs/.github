@@ -79,6 +79,10 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 ---
 
+## 📊 **Company Highlights and Stats**
+
+---
+
 ## 👨‍💻 **Leadership & Vision**
 
 <div align="center">
@@ -93,10 +97,6 @@ _"Life is Code, Let's solve it together"_
 [![Portfolio](https://img.shields.io/badge/Portfolio-quintin.engineer-6f42c1?style=flat-square)](https://quintin.engineer)
 
 </div>
-
----
-
-## 📊 **Company Highlights and Stats**
 
 ---
 
