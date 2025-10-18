@@ -19,17 +19,28 @@
 
 ## About US
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### **Our Mission** 🎯
 
 We transform breakthrough ideas into reality, creating innovative solutions that enhance human experience and solve critical challenges through advanced technology.
 
 _Impactful Software Solutions_
 
+</td>
+<td align="center" width="50%">
+
 ### **Our Vision** 🌍
 
 To become a leading technology innovation company creating solutions that fundamentally improve how humans live, work, and connect in the digital age.
 
 _Global Innovation Leadership_
+
+</td>
+</tr>
+</table>
 
 ### **Breaking New Ground** 🔬
 
