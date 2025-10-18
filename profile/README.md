@@ -287,13 +287,13 @@ Connect, collaborate, and grow with us! Choose your path below:
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Website-qexionlabs.com-6f42c1?style=for-the-badge)](https://qexionlabs.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qexion-labs)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github)](https://github.com/qexion-labs)
-[![Twitter/X](https://img.shields.io/badge/🕊️_Twitter/X-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/qexionlabs)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/qexionlabs)
-[![YouTube](https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@qexionlabs)
-[![Facebook](https://img.shields.io/badge/📘_Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/qexionlabs)
-[![Email](https://img.shields.io/badge/�_Email-contact@qexionlabs.com-dc3545?style=for-the-badge)](mailto:contact@qexionlabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qexion-labs)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/qexion-labs)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/qexionlabs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/qexionlabs)
+[![YouTube](https://img.shields.io/badge/▶YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@qexionlabs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/qexionlabs)
+[![Email](https://img.shields.io/badge/📧_Email-contact@qexionlabs.com-dc3545?style=for-the-badge)](mailto:contact@qexionlabs.com)
 
 </div>
 
