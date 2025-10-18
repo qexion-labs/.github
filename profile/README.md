@@ -213,36 +213,60 @@ _"Life is Code, Let's solve it together"_
 
 ## 🤝 **Get Involved**
 
-### **For Students & Developers**
+<div align="center">
 
-```bash
-# Explore Academic Services
-curl https://qexionlabs.com/services/projectify
+### **Get Involved at Qexion Labs**
 
-# Join Development Community
-git clone projects && cd solutions
-
-# Collaborate on Open Source
-echo "Ready to innovate together?" | contribute
-```
-
-### **For Businesses & Organizations**
-
-```bash
-# Request Custom Development
-POST /api/consultation
-{
-  "project_type": "custom_development",
-  "solution_level": "advanced_systems"
-}
-
-# Technology Consultation
-GET /services/consulting?focus=ai_integration
-```
+Connect, collaborate, and grow with us! Choose your path below:
 
 ---
 
-## 🌟 **Quality & Innovation Standards**
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 👩‍💻 Students & Developers
+
+[![Explore Academic Services](https://img.shields.io/badge/🎓_Projectify-Academic_Services-28a745?style=for-the-badge)](https://qexionlabs.com/services/projectify)<br>
+[![Join Community](https://img.shields.io/badge/💬_Join_Community-5865F2?style=for-the-badge)](https://github.com/qexion-labs)<br>
+[![Contribute to Open Source](https://img.shields.io/badge/🤝_Contribute-100000?style=for-the-badge&logo=github)](https://github.com/qexion-labs)
+
+<sub>Access academic support, join our dev community, or contribute to open source projects.</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### 🏢 Businesses & Organizations
+
+[![Request Consultation](https://img.shields.io/badge/📝_Request_Consultation-0077b5?style=for-the-badge)](https://qexionlabs.com/contact)<br>
+[![Start a Project](https://img.shields.io/badge/🚀_Start_Project-6f42c1?style=for-the-badge)](https://qexionlabs.com/services)<br>
+[![Partner With Us](https://img.shields.io/badge/🤝_Partner-28a745?style=for-the-badge)](mailto:hello@qexionlabs.com)
+
+<sub>Get custom solutions, technology consulting, or explore partnership opportunities.</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### 🌐 Partners & Investors
+
+[![Explore Collaboration](https://img.shields.io/badge/🌍_Collaborate-00C7B7?style=for-the-badge)](https://linkedin.com/company/qexion-labs)<br>
+[![Invest in Qexion](https://img.shields.io/badge/💰_Invest-FFD700?style=for-the-badge)](mailto:hello@qexionlabs.com)
+
+<sub>Discover collaboration, investment, and sponsorship opportunities.</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>Questions? <a href="https://qexionlabs.com/contact">Contact us here</a>.</sub>
+
+</div>
+
+---
+
+## 🌟 **Quality Standards**
 
 <div align="center">
 
