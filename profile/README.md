@@ -197,7 +197,7 @@ _"Life is Code, Let's solve it together"_
 
 <div align="center">
 
-| Department            | Description                                                         | Hiring Status                                         |
+| Department            | Description                                                         | Hiring                                                |
 | --------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- |
 | 🎨 **Q-Brand**        | Visual identity, UI/UX design, and brand strategy development       | [Apply Now](https://linkedin.com/company/qexion-labs) |
 | 💻 **Q-Dev**          | Full-stack development, AI solutions, and technical architecture    | [Apply Now](https://linkedin.com/company/qexion-labs) |
