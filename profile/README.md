@@ -97,17 +97,17 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 			<br/>
 			<a href="https://linkedin.com/in/edward-quintin-sey">LinkedIn</a> |
 			<a href="https://quintin.engineer">Portfolio</a> |
-			<a href="https://github.com/eddki">GitHub</a>
+			<a href="https://github.com/quintin-dev">GitHub</a>
 		</td>
 		<td align="center" width="50%">
 			<img src="https://github.com/Burkifa23.png" width="120" height="120" style="border-radius:50%" alt="FRANK KWIZERA MUGWANEZA" />
 			<br/>
-			<b>FRANK KWIZERA MUGWANEZA </b><br/>
+			<b>FRANK KWIZERA MUGWANEZA</b><br/>
 			<i>Technical Lead</i>
 			<br/>
-			<a href="https://linkedin.com/in/kwame-mensah">LinkedIn</a> |
-			<a href="https://kwametech.dev">Portfolio</a> |
-			<a href="https://github.com/kwame-techlead">GitHub</a>
+			<a href="https://linkedin.com/in/">LinkedIn</a> |
+			<a href="https://">Portfolio</a> |
+			<a href="https://github.com/Burkifa23">GitHub</a>
 		</td>
 	</tr>
 </table>
