@@ -143,10 +143,6 @@ _"Life is Code, Let's solve it together"_
 
 ---
 
-## 🚀 **Featured Projects & Solutions**
-
----
-
 ## 🤝 **Get Involved**
 
 ### **For Students & Developers**
