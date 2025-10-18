@@ -89,7 +89,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 <table>
 	<tr>
-		<td align="center" width="60%">
+		<td align="center" width="220px">
 			<img src="https://github.com/quintin-dev.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
 			<br/>
 			<b>EDWARD KING QUINTIN-SEY</b><br/>
@@ -99,7 +99,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 			<a href="https://quintin.engineer">Portfolio</a> |
 			<a href="https://github.com/quintin-dev">GitHub</a>
 		</td>
-		<td align="center" width="60%">
+		<td align="center" width="220px">
 			<img src="https://github.com/Burkifa23.png" width="120" height="120" style="border-radius:50%" alt="FRANK KWIZERA MUGWANEZA" />
 			<br/>
 			<b>FRANK KWIZERA MUGWANEZA</b><br/>
