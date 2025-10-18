@@ -90,24 +90,20 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 <table>
 	<tr>
 		<td align="center" width="50%">
-			<img src="https://github.com/eddki.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
+			<img src="https://github.com/quintin-dev.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
 			<br/>
 			<b>EDWARD KING QUINTIN-SEY</b><br/>
 			<i>Founder & CEO</i>
-			<br/>
-			<sub>"Life is Code, Let's solve it together"</sub>
 			<br/>
 			<a href="https://linkedin.com/in/edward-quintin-sey">LinkedIn</a> |
 			<a href="https://quintin.engineer">Portfolio</a> |
 			<a href="https://github.com/eddki">GitHub</a>
 		</td>
 		<td align="center" width="50%">
-			<img src="https://github.com/kwame-techlead.png" width="120" height="120" style="border-radius:50%" alt="Kwame Mensah" />
+			<img src="https://github.com/Burkifa23.png" width="120" height="120" style="border-radius:50%" alt="FRANK KWIZERA MUGWANEZA" />
 			<br/>
 			<b>FRANK KWIZERA MUGWANEZA </b><br/>
 			<i>Technical Lead</i>
-			<br/>
-			<sub>"Building the future, one line at a time"</sub>
 			<br/>
 			<a href="https://linkedin.com/in/kwame-mensah">LinkedIn</a> |
 			<a href="https://kwametech.dev">Portfolio</a> |
