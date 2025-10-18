@@ -291,7 +291,7 @@ Connect, collaborate, and grow with us! Choose your path below:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/qexion-labs)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x)](https://twitter.com/qexionlabs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/qexionlabs)
-[![YouTube](https://img.shields.io/badge/▶YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@qexionlabs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@qexionlabs)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/qexionlabs)
 [![Email](https://img.shields.io/badge/📧_Email-contact@qexionlabs.com-dc3545?style=for-the-badge)](mailto:contact@qexionlabs.com)
 
@@ -299,23 +299,7 @@ Connect, collaborate, and grow with us! Choose your path below:
 
 ---
 
-### **QEXION LABS**
-
-_Technology Innovation Company • Established 2025_
-
-**Building breakthrough solutions that enhance human experience through advanced technology**
-
 <div align="center">
-
-**🎯 Current Focus**: Academic Services (Projectify) • Business Web Solutions • AI Consultation
-
-**🌍 Serving**: Ghana Universities • Local Businesses • International Clients
-
-**🚀 Next**: Expanding educational partnerships • Advanced AI integration services
-
-</div>
-
----
 
 _© 2025 Qexion Labs. Start With An Idea, Unlock Innovation._
 
