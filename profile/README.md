@@ -219,8 +219,6 @@ _"Life is Code, Let's solve it together"_
 
 Connect, collaborate, and grow with us! Choose your path below:
 
----
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -258,8 +256,6 @@ Connect, collaborate, and grow with us! Choose your path below:
 </td>
 </tr>
 </table>
-
----
 
 <sub>Questions? <a href="https://qexionlabs.com/contact">Contact us here</a>.</sub>
 
