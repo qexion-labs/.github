@@ -252,6 +252,8 @@ Connect, collaborate, and grow with us! Choose your path below:
 [![Explore Collaboration](https://img.shields.io/badge/🌍_Collaborate-00C7B7?style=for-the-badge)](https://linkedin.com/company/qexion-labs)<br>
 [![Invest in Qexion](https://img.shields.io/badge/💰_Invest-FFD700?style=for-the-badge)](mailto:hello@qexionlabs.com)
 
+[![Sponsor Qexion Labs](https://img.shields.io/badge/❤️_Sponsor-ff3366?style=for-the-badge)](https://qexionlabs.com/contact)
+
 <sub>Discover collaboration, investment, and sponsorship opportunities.</sub>
 
 </td>
