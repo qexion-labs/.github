@@ -77,6 +77,8 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 ➜ &nbsp; **Community Ecosystems** - Building platforms that foster creative collaboration<br>
 ➜ &nbsp; **Experimental Technologies** - Cutting-edge approaches to fundamental technological problems<br>
 
+---
+
 ## 📊 **Company Highlights and Stats**
 
 <div align="center">
