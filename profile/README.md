@@ -220,7 +220,7 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 
 | Department            |                             Description                             |                        Hiring                         |
 | :-------------------- | :-----------------------------------------------------------------: | :---------------------------------------------------: |
-| 👥 **Q-Management**   |       Leadership & Strategic Operations, Executive operations       | [Apply Now](https://linkedin.com/company/qexion-labs) |
+| 🧑‍💼 **Q-Management**   |       Leadership & Strategic Operations, Executive operations       | [Apply Now](https://linkedin.com/company/qexion-labs) |
 | 👥 **Q-Relations**    |      Human resources, talent acquisition, and team development      | [Apply Now](https://linkedin.com/company/qexion-labs) |
 | 💻 **Q-Dev**          |  Full-stack development, AI solutions, and technical architecture   | [Apply Now](https://linkedin.com/company/qexion-labs) |
 | 🎨 **Q-Brand**        |    Visual identity, UI/UX design, and brand strategy development    | [Apply Now](https://linkedin.com/company/qexion-labs) |
