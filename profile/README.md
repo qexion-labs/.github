@@ -95,14 +95,14 @@ Our most ambitious project addresses a **fundamental aspect of human experience*
 <table>
 	<tr>
 		<td align="center" width="250px">
-			<img src="https://github.com/quintin-dev.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
+			<img src="https://github.com/quintincodes.png" width="120" height="120" style="border-radius:50%" alt="Edward King Quintin-Sey" />
 			<br/>
 			<b>EDWARD KING QUINTIN-SEY</b><br/>
 			<i>Founder & CEO</i>
 			<br/>
-			<a href="https://www.linkedin.com/in/eddkingqsey">LinkedIn</a> |
+			<a href="https://www.linkedin.com/in/quintincodes">LinkedIn</a> |
 			<a href="https://quintin.engineer">Portfolio</a> |
-			<a href="https://github.com/quintin-dev">GitHub</a>
+			<a href="https://github.com/quintincodes">GitHub</a>
 		</td>
 		<td align="center" width="250px">
 			<img src="https://github.com/Burkifa23.png" width="120" height="120" style="border-radius:50%" alt="FRANK KWIZERA MUGWANEZA" />
